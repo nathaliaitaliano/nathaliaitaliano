@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Nathalia Italiano (she/her), a Full Stack Developer.
+
 Also games and photography enthusiast 😄
 
 <!--
