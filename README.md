@@ -3,10 +3,16 @@ I'm Nathalia Italiano (she/her), a Full Stack Developer and a games and photogra
 
 Currently I am developing my full stack profile, studying and practicing:
 > Web technologies (HTML, CSS, react)
+> 
 > Nodejs
+> 
 > Java
+> 
 > MYSQL
+> 
 > API's development 
+> 
+
 Also practicing principles like test driven development (TDD), object oriented programming (OOP), SOLID and clean code.
 
 <!--
