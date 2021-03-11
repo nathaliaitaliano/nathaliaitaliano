@@ -2,7 +2,7 @@
 I'm Nathalia Italiano (she/her), a Full Stack Developer and a games and photography enthusiast 🕹️📷
 
 Currently I am developing my full stack profile, studying and practicing:
-> Web technologies (HTML, CSS, react)
+> Web technologies (HTML, CSS, react) >
 > Nodejs
 > Java
 > MYSQL
