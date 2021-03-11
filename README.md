@@ -1,7 +1,10 @@
 ### Hi there 👋
 I'm Nathalia Italiano (she/her), a Full Stack Developer.
 
-Also games and photography enthusiast 😄
+Currently I am developing my full stack profile, studying web technologies (HTML, CSS, react), nodejs, java, MYSQL, and API's development. Also practicing principles like test driven development (TDD), object oriented programming (OOP), SOLID and clean code.
+
+
+Also games and photography enthusiast 🕹️📷
 
 <!--
 **nathaliaitaliano/nathaliaitaliano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
